@@ -1,2 +1,2 @@
 # a_star_example_java
-An example of the use of A\*
+This is a very simple scenario for path finding exercises.
